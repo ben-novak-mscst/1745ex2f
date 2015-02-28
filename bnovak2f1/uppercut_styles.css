@@ -1,0 +1,23 @@
+﻿a:link
+{
+	color: rgb(0,51,204); 
+}
+a:visited
+{
+	color: rgb(51,153,102); 
+} 
+a:active 
+{
+	color: rgb(255,153,0);
+}
+body
+{
+	font-family: Arial, Helvetica;
+	background-color: rgb(255,255,204);
+	color:blue
+}
+{}
+#hoursDiv {
+	text-align: center;
+	width: 100%;
+}
